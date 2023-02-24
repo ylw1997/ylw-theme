@@ -2,7 +2,7 @@
   "name": "ylw-theme",
   "displayName": "ylw-theme",
   "description": "the best theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "favicon.ico",
   "engines": {
     "vscode": "^1.75.0"
