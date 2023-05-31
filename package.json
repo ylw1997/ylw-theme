@@ -2,7 +2,7 @@
   "name": "ylw-theme",
   "displayName": "ylw-theme",
   "description": "the best theme",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "icon": "favicon.ico",
   "engines": {
     "vscode": "^1.75.0"
@@ -18,9 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "ylw-theme",
+        "label": "ylw-dark-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ylw-theme-color-theme.json"
+        "path": "./themes/ylw-dark-color-theme.json"
+      },
+      {
+        "label": "ylw-light-theme",
+        "uiTheme": "vs",
+        "path": "./themes/ylw-light-color-theme.json"
       }
     ]
   }
